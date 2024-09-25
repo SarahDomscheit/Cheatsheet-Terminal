@@ -12,7 +12,7 @@
 |rm _Dateiname_|Datei löschen|
 |rm -r _Ordnername_|Ordner löschen|
 |rm -rf _Ordnername_ |Ordner löschen|alles löschen|
-|ls |Ordnerinhalt anzeigen|ls-a zeigt auch versteckte Dateien an|
+|ls |Ordnerinhalt anzeigen|ls -a zeigt auch versteckte Dateien an|
 |cp _Dateiname_ _Dateiname_ |Datei kopieren|
 |cp _Ordnername_ _Ordnername_ |Ordner kopieren|
 
