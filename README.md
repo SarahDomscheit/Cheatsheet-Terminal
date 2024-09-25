@@ -10,5 +10,7 @@
 |mv _alterName_ _neuerName_|umbenennen|
 |mv _Dateiname_ _Ordnerziel_ |verschieben|
 |rm _Dateiname_|Datei löschen|
-|rm -rf _Ordnername_ |Ordner löschen|
+|rm -r _Ordnername_|Ordner löschen|
+|rm -rf _Ordnername_ |Ordner löschen|alles löschen|
+|ls |Ordnerinhalt anzeigen|ls-a zeigt auch versteckte Dateien an|
 
