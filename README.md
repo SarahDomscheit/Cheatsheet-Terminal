@@ -1,1 +1,14 @@
 # Cheatsheet-Terminal
+
+|Befehl|Beschreibung|Anmerkungen|
+|------|------------|-----------|
+|mkdir _Ordnername_|Ordner erstellen|
+|cd _Ordnername_|Verzeichnis wechseln|
+|cd.. |geht in das vorherige Verzeichnis|
+|touch _Dateiname_|Datei erstellen|
+|nano _Dateiname_|in einer Textdatei schreiben|
+|mv _alterName_ _neuerName_|umbenennen|
+|mv _Dateiname_ _Ordnerziel_ |verschieben|
+|rm _Dateiname_|Datei löschen|
+|rm -rf _Ordnername_ |Ordner löschen|
+
