@@ -15,4 +15,5 @@
 |ls |Ordnerinhalt anzeigen|ls -a zeigt auch versteckte Dateien an|
 |cp _Dateiname_ _Dateiname_ |Datei kopieren|
 |cp _Ordnername_ _Ordnername_ |Ordner kopieren|
+|clear|löscht die Eingaben|
 
